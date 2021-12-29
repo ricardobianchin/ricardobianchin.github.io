@@ -1,0 +1,44 @@
+@font-face {font-family: "GT America Light";
+    src: url("font/OnlineWebFonts_COM_eba517bbd20f917c844e6be6025cb1f7/GT America Light/@font-face/76cad44852ba93f820a16d446f80c5e2.eot"); /* IE9*/
+    src: url("font/OnlineWebFonts_COM_eba517bbd20f917c844e6be6025cb1f7/GT America Light/@font-face/76cad44852ba93f820a16d446f80c5e2.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("font/OnlineWebFonts_COM_eba517bbd20f917c844e6be6025cb1f7/GT America Light/@font-face/76cad44852ba93f820a16d446f80c5e2.woff2") format("woff2"), /* chrome、firefox */
+    url("font/OnlineWebFonts_COM_eba517bbd20f917c844e6be6025cb1f7/GT America Light/@font-face/76cad44852ba93f820a16d446f80c5e2.woff") format("woff"), /* chrome、firefox */
+    url("font/OnlineWebFonts_COM_eba517bbd20f917c844e6be6025cb1f7/GT America Light/@font-face/76cad44852ba93f820a16d446f80c5e2.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url("font/OnlineWebFonts_COM_eba517bbd20f917c844e6be6025cb1f7/GT America Light/@font-face/76cad44852ba93f820a16d446f80c5e2.svg#GT America Light") format("svg"); /* iOS 4.1- */
+}
+
+@font-face {font-family: "SaolDisplay-Regular";
+    src: url("font/OnlineWebFonts_COM_30a1c3e58ee21ce13114d9a353839582/SaolDisplay-Regular/@font-face/4c4c08af466e9ad071b6d69cf44093df.eot"); /* IE9*/
+    src: url("font/OnlineWebFonts_COM_30a1c3e58ee21ce13114d9a353839582/SaolDisplay-Regular/@font-face/4c4c08af466e9ad071b6d69cf44093df.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("font/OnlineWebFonts_COM_30a1c3e58ee21ce13114d9a353839582/SaolDisplay-Regular/@font-face/4c4c08af466e9ad071b6d69cf44093df.woff2") format("woff2"), /* chrome、firefox */
+    url("font/OnlineWebFonts_COM_30a1c3e58ee21ce13114d9a353839582/SaolDisplay-Regular/@font-face/4c4c08af466e9ad071b6d69cf44093df.woff") format("woff"), /* chrome、firefox */
+    url("font/OnlineWebFonts_COM_30a1c3e58ee21ce13114d9a353839582/SaolDisplay-Regular/@font-face/4c4c08af466e9ad071b6d69cf44093df.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url("font/OnlineWebFonts_COM_30a1c3e58ee21ce13114d9a353839582/SaolDisplay-Regular/@font-face/4c4c08af466e9ad071b6d69cf44093df.svg#SaolDisplay-Regular") format("svg"); /* iOS 4.1- */
+}
+  
+  
+body {
+    color: rgb(50, 50, 50);
+    font-family: 'GT America Light',Arial, Helvetica, sans-serif;
+}
+
+.titulo {
+    font-family: 'SaolDisplay-Regular', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(30, 30, 30);
+    margin: auto;
+    text-align: center;
+}
+
+.tit2 {
+    font-family: 'GT America Light',Arial, Helvetica, sans-serif;
+    color: rgb(30, 30, 30);
+    margin: auto;
+    text-align: center;
+}
+
+.credits {
+    font-size: smaller;
+    color: rgb(110, 110, 110);
+    margin: auto;
+    text-align: center;
+}
